@@ -2,10 +2,9 @@
 
 A full-stack issue tracker: register/login, create/edit/delete issues, assign to users, track status (Open / In Progress / Closed), comment, and view a dashboard with counts.
 
-- **Live frontend:** `https://<your-app>.vercel.app` *(replace after deploying)*
-- **Live API:** `https://<your-api>.onrender.com` *(replace after deploying)*
-- **Repository:** `https://github.com/<your-username>/issue-tracker`
-
+-- **Live frontend:** https://issue-tracker-six-dusky.vercel.app
+- **Live API:** https://issue-tracker-g06t.onrender.com
+- **Repository:** https://github.com/Rathanpc/issue-tracker
 ## Features
 - JWT authentication with bcrypt-hashed passwords
 - Issue CRUD (only the creator can delete), assignment to any registered user
